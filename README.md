@@ -4,7 +4,7 @@ Fast, static brand website: HTML, CSS, JavaScript and editable JSON. No framewor
 
 ## Cloudflare Pages
 
-Connect this GitHub repository to Cloudflare Pages. Use `main` as the production branch, leave the build command blank, and set the build output directory to `/`. Preview deployments can be enabled for pull requests. Once the site is reviewed and merged, add `logowarriors.com` and `www.logowarriors.com` as custom domains in Pages and follow Cloudflare's DNS prompts. Keep the domain's authoritative DNS setup consistent with Cloudflare's instructions.
+Connect this GitHub repository to Cloudflare Pages. Use `main` as the production branch, leave the build command blank, and set the build output directory to `.`. Preview deployments can be enabled for pull requests. Once the site is reviewed and merged, add `logowarriors.com` and `www.logowarriors.com` as custom domains in Pages and follow Cloudflare's DNS prompts. Keep the domain's authoritative DNS setup consistent with Cloudflare's instructions.
 
 ## Update the site
 
