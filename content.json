@@ -1,0 +1,18 @@
+{
+  "collections": [
+    {"title":"The Long Way","theme":"STOIC DESIGN · SERIES 01","symbol":"ᛉ","note":"Quiet resolve, daily wear."},
+    {"title":"Stone & Signal","theme":"FIELD NOTES · SERIES 02","symbol":"✳","note":"Marks from the wild edge."},
+    {"title":"Northbound","theme":"HORIZON STUDIES · SERIES 03","symbol":"⌁","note":"Made for the onward path."}
+  ],
+  "listings": [
+    {"name":"Premium domains","kind":"DOMAIN NAMES","description":"Memorable digital real estate with room to grow. Our current shortlist is shared privately with qualified buyers.","note":"Categories · Brandable · Exact match","featured":true},
+    {"name":"Creator channels","kind":"YOUTUBE CHANNELS","description":"Established audiences and content properties, introduced discreetly to the right operators.","note":"Niche · Audience · History"},
+    {"name":"Private mandate","kind":"SELL WITH US","description":"Considering a sale? We can help shape a confidential brief and introduce serious buyers.","note":"Confidential conversations"}
+  ],
+  "apps": [
+    {"name":"Signal Notes","symbol":"S","description":"A quieter place to capture ideas and bring them into focus.","status":"IN DEVELOPMENT"},
+    {"name":"Northstar Daily","symbol":"N","description":"Small daily prompts that help turn intention into progress.","status":"IN DEVELOPMENT"},
+    {"name":"Pocket Ledger","symbol":"P","description":"A simple, private view of the numbers that matter to you.","status":"ON THE ROADMAP"}
+  ],
+  "contactEmail": "hello@logowarriors.com"
+}
